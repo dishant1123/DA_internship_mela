@@ -273,7 +273,7 @@ print("new  clg name is  (after change) :",student.clg_name)
 2. no self use in static method
 """
 
-class maths :
+"""class maths :
     @staticmethod
     def add(a,b):
         return a+b
@@ -284,5 +284,6 @@ class maths :
 m=maths()
 print(m.add(2,3))
 print(m.sub(34,12))
-
+"""
 # file handling  ,excepationl ,connective SQL   :
+# pip install  matplotlib
